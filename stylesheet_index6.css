@@ -31,6 +31,12 @@
   margin-right: auto;
 }
 
+.content img {
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%;
+}
+
 .column {
   flex: 33%;
 }
